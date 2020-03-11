@@ -1,0 +1,3 @@
+[submodule "web2c"]
+	path = web2c
+	url = ../web2c.git
