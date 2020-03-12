@@ -1,0 +1,14 @@
+*.log
+*.o
+*.base
+*.p
+*.pool
+*.*gf
+*.tfm
+*.pk
+mf
+mf-nowin
+mf0.c
+mfcoerce.h
+mfd.h
+
